@@ -12,7 +12,6 @@
   - Membuat Website Membuat Website Cabang Kopi Juwara / Pak Petrus (https://www.petrus.kopijuwara.com)
   - Membuat Website Membuat Website Cabang Kopi Juwara / Ibu Rachel (https://www.rachel.kopijuwara.com)
   - Membuat Website Membuat Website Cabang Kopi Juwara / Pak Seno (https://www.seno.kopijuwara.com)
-6. Silahkan cek Data Laporan di https://drive.google.com/drive/P000187/Hasil
 
 # TIMELINE MAGANG di #ARPATEAM
 
