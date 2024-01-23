@@ -16,7 +16,7 @@
 
 # TIMELINE MAGANG di #ARPATEAM
 
-- 23 Oktober 2023 (Penyaimpaian Timeline Magang) | [Data ada disini](https://github.com/arpateam/P000187#:~:text=2%20Commits-,1.%2023%20Oktober%202023%20(Penyaimpaian%20Timeline%20Magang).txt,-Add%20files%20via)
+- 23 Oktober 2023 (Penyaimpaian Timeline Magang) | [Data ada disini](https://github.com/arpateam/P000187/blob/main/1.%2023%20Oktober%202023%20(Penyaimpaian%20Timeline%20Magang).txt)
 - 24 Oktober 2023 (Sosialisasi Magang di #ARPATEAM | [Data ada disini](https://github.com/arpateam/P000187#:~:text=2.%2024%20Oktober%202023%20(Sosialisasi%20Magang%20di%20%23ARPATEAM).txt)
 - 24 - 31 Oktober 2023 (Belajar Pengatar Teknologi Website Developer) | [Data ada disini](https://github.com/arpateam/P000187#:~:text=3.%2024%20%2D%2031%20Oktober%202023%20(Belajar%20Pengatar%20Teknologi%20Website%20Developer).txt)
 - 01 - 03 November 2023 (Merencakan Pembuatan Website Kopi Juwara) | Data ada disini
